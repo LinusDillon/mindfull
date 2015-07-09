@@ -1,0 +1,8 @@
+
+build/config.log
+
+*.o
+
+*.map
+
+*.pbw

@@ -1,0 +1,20 @@
+{
+  "uuid": "72d5472f-9d53-4c67-b6d0-afe282be3363",
+  "shortName": "Mindfull",
+  "longName": "Mindfull",
+  "companyName": "Terellium",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "capabilities": [ "configurable" ],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0,
+    "CONFIG_MSGKEY": 5
+  },
+  "resources": {
+    "media": []
+  }
+}
