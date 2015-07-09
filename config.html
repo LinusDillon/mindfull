@@ -60,7 +60,7 @@
       var obj = jQuery.parseJSON(decodeURIComponent(window.location.search.substring(1)));
       console.log(obj);
       for(key in obj) {
-        var target = $("[name=''"+key"'']");
+        var target = $("[name='"+key"']");
         target.val(obj[key]);
       }
     });
